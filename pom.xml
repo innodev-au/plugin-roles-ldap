@@ -15,6 +15,7 @@
 	</parent>
 	<properties>
 		<fascinator.version>1.1.1</fascinator.version>
+		<ldap.version>1.0-UoA</ldap.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -43,7 +44,7 @@
 		<dependency>
 			<groupId>com.googlecode.the-fascinator.plugins</groupId>
 			<artifactId>plugin-authentication-ldap</artifactId>
-			<version>${project.version}</version>
+			<version>${ldap.version}</version>
 		</dependency>
 	</dependencies>
 
