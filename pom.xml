@@ -77,6 +77,11 @@
 
     <repositories>
         <repository>
+            <id>maven.adelaide.edu.au</id>
+            <name>University of Adelaide - Releases</name>
+            <url>https://maven.adelaide.edu.au/artifactory/libs-releases-local</url>
+        </repository>
+        <repository>
             <id>fascinator-snapshots</id>
             <name>The Fascinator Community Nexus Server - Snapshots</name>
             <url>http://dev.redboxresearchdata.com.au/nexus/content/repositories/central-snapshots/</url>
