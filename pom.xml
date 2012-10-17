@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.googlecode.the-fascinator.plugins</groupId>
 	<artifactId>plugin-roles-ldap</artifactId>
-	<version>1.0-UoA-SNAPSHOT</version>
+	<version>1.0-UoA</version>
 	<name>The Fascinator - Plugin - Roles - LDAP</name>
-	<description></description>
-	<url></url>
+	<description />
+	<url />
 	<parent>
 		<groupId>com.googlecode.the-fascinator</groupId>
 		<artifactId>fascinator-plugins</artifactId>
@@ -73,7 +72,7 @@
         <url>scm:git://github.com/innodev-au/plugin-roles-ldap.git</url>
         <connection>scm:git://github.com/innodev-au/plugin-roles-ldap.git</connection>
         <developerConnection>scm:git:https://github.com/innodev-au/plugin-roles-ldap.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>plugin-roles-ldap-1.0-UoA</tag>
     </scm>
 
     <repositories>
