@@ -2,8 +2,6 @@
 
 This plugin allows The Fascinator platform to query an LDAP server to determine user roles.
 
-[ANDS-funded development done as part of the Metadata Stores project]
-
 ## Configuration ##
 
 	"ldap": {  
